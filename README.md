@@ -8,7 +8,7 @@ This repository includes the full implementation of the model, which has been sh
 
 For more detailed information, please refer to the following:
 
-- **Sung, Nicholas, Zheng Liu, Pingfeng Wang, and Faez Ahmed.** "[Cooling-Guided Diffusion Model for Battery Cell Arrangement](https://yourpaperlinkhere)." In *Proceedings of the ASME 2024 International Design Engineering Technical Conferences*, Washington, DC, USA, 2024.
+- **Sung, Nicholas, Zheng Liu, Pingfeng Wang, and Faez Ahmed.** "[Cooling-Guided Diffusion Model for Battery Cell Arrangement](https://arxiv.org/abs/2403.10566)." In *Proceedings of the ASME 2024 International Design Engineering Technical Conferences*, Washington, DC, USA, 2024.
 
 ## Citation
 
