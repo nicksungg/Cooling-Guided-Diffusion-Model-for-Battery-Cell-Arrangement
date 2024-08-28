@@ -4,7 +4,7 @@
 
 We introduce a novel approach using a **Cooling-Guided Diffusion Model** to optimize battery cell arrangements, a crucial step in improving the cooling efficiency and safety of battery packs. The model is based on a Denoising Diffusion Probabilistic Model (DDPM) guided by a classifier and a surrogate model to generate feasible and thermally efficient cell layouts.
 
-This repository includes the full implementation of the model, which has been shown to outperform existing methods such as Tabular Denoising Diffusion Probabilistic Model (TabDDPM) and Conditional Tabular GAN (CTGAN) in key metrics like feasibility, diversity, and cooling efficiency.
+This repository includes the full implementation of the model, which has been shown to outperform existing methods such as Tabular Denoising Diffusion Probabilistic Model (TabDDPM) and Conditional Tabular GAN (CTGAN) in key metrics like feasibility, diversity, and cooling efficiency. The dataset can be found **here** "(https://mitprod-my.sharepoint.com/:u:/g/personal/nicksung_mit_edu/EYcTBegU3cBNoA4TU-2c0qYBjWFuL6o0eaJM_qtS9DOPtA?e=U7GKWp")
 
 For more detailed information, please refer to the following:
 
