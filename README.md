@@ -2,7 +2,7 @@
 
 > **Notice:** This repository contains the implementation of a Cooling-Guided Diffusion Model specifically designed to optimize battery cell layouts for enhanced cooling efficiency within Battery Thermal Management Systems (BTMS).
 
-We introduce a novel approach using a **Cooling-Guided Diffusion Model** to optimize battery cell arrangements, a crucial step in improving the cooling efficiency and safety of battery packs. The model is based on a Denoising Diffusion Probabilistic Model (DDPM) guided by classifier and cooling efficiency metrics to generate feasible and thermally efficient cell layouts.
+We introduce a novel approach using a **Cooling-Guided Diffusion Model** to optimize battery cell arrangements, a crucial step in improving the cooling efficiency and safety of battery packs. The model is based on a Denoising Diffusion Probabilistic Model (DDPM) guided by a classifier and a surrogate model to generate feasible and thermally efficient cell layouts.
 
 This repository includes the full implementation of the model, which has been shown to outperform existing methods such as Tabular Denoising Diffusion Probabilistic Model (TabDDPM) and Conditional Tabular GAN (CTGAN) in key metrics like feasibility, diversity, and cooling efficiency.
 
